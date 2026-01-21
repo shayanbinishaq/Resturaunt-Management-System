@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Shayan\Visual programming\Projects\RMS\RMS\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AllUserControls\UC_Add_items.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AllUserControls\UC_delete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AllUserControls\UC_placeOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AllUserControls\UC_update_items.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AllUserControls\UC_update_items.Extensions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Logout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

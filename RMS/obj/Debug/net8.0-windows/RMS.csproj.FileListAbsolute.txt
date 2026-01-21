@@ -1,0 +1,211 @@
+E:\shayan\Visual programming\Project\RMS\RMS\bin\Debug\net8.0-windows\RMS.exe
+E:\shayan\Visual programming\Project\RMS\RMS\bin\Debug\net8.0-windows\RMS.deps.json
+E:\shayan\Visual programming\Project\RMS\RMS\bin\Debug\net8.0-windows\RMS.runtimeconfig.json
+E:\shayan\Visual programming\Project\RMS\RMS\bin\Debug\net8.0-windows\RMS.dll
+E:\shayan\Visual programming\Project\RMS\RMS\bin\Debug\net8.0-windows\RMS.pdb
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.Properties.Resources.resources
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.GenerateResource.cache
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfoInputs.cache
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfo.cs
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.CoreCompileInputs.cache
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.dll
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\refint\RMS.dll
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.pdb
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.genruntimeconfig.cache
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\ref\RMS.dll
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.SignUpForm.resources
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.Login.resources
+E:\shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.Dashboard.resources
+C:\Shayan\Visual programming\Project\RMS\RMS\bin\Debug\net8.0-windows\RMS.exe
+C:\Shayan\Visual programming\Project\RMS\RMS\bin\Debug\net8.0-windows\RMS.deps.json
+C:\Shayan\Visual programming\Project\RMS\RMS\bin\Debug\net8.0-windows\RMS.runtimeconfig.json
+C:\Shayan\Visual programming\Project\RMS\RMS\bin\Debug\net8.0-windows\RMS.dll
+C:\Shayan\Visual programming\Project\RMS\RMS\bin\Debug\net8.0-windows\RMS.pdb
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.Dashboard.resources
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.Login.resources
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.Properties.Resources.resources
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.SignUpForm.resources
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.GenerateResource.cache
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfoInputs.cache
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfo.cs
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.CoreCompileInputs.cache
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.dll
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\refint\RMS.dll
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.pdb
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\RMS.genruntimeconfig.cache
+C:\Shayan\Visual programming\Project\RMS\RMS\obj\Debug\net8.0-windows\ref\RMS.dll
+D:\Shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.exe
+D:\Shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.deps.json
+D:\Shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.runtimeconfig.json
+D:\Shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.dll
+D:\Shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.pdb
+D:\Shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.AssemblyReference.cache
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Dashboard.resources
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Login.resources
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Properties.Resources.resources
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.SignUpForm.resources
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.GenerateResource.cache
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfoInputs.cache
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfo.cs
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.CoreCompileInputs.cache
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.Up2Date
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.dll
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\refint\RMS.dll
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.pdb
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.genruntimeconfig.cache
+D:\Shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\ref\RMS.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.AssemblyReference.cache
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\refint\RMS.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.pdb
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.exe
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.deps.json
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.runtimeconfig.json
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.pdb
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Dashboard.resources
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Login.resources
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Properties.Resources.resources
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.SignUpForm.resources
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.GenerateResource.cache
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfoInputs.cache
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfo.cs
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.CoreCompileInputs.cache
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.Up2Date
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.genruntimeconfig.cache
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\ref\RMS.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.dll.config
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\shayan\Visual programming\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Form1.resources
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.exe
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.dll.config
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.deps.json
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.runtimeconfig.json
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.pdb
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Shayan\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.AssemblyReference.cache
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Dashboard.resources
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Form1.resources
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Login.resources
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Properties.Resources.resources
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.SignUpForm.resources
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.GenerateResource.cache
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfoInputs.cache
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfo.cs
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.CoreCompileInputs.cache
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.Up2Date
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.dll
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\refint\RMS.dll
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.pdb
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.genruntimeconfig.cache
+D:\Shayan\Projects\RMS\RMS\obj\Debug\net8.0-windows\ref\RMS.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.exe
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.dll.config
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.deps.json
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.runtimeconfig.json
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\RMS.pdb
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.AssemblyReference.cache
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AllUserControls.UC_Add_items.resources
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AllUserControls.UC_delete.resources
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AllUserControls.UC_placeOrder.resources
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AllUserControls.UC_update_items.resources
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Dashboard.resources
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Login.resources
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Logout.resources
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.Properties.Resources.resources
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.SignUpForm.resources
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.GenerateResource.cache
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfoInputs.cache
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.AssemblyInfo.cs
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.CoreCompileInputs.cache
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.csproj.Up2Date
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\refint\RMS.dll
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.pdb
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\RMS.genruntimeconfig.cache
+C:\Shayan\Cources\VP\Projects\RMS\RMS\obj\Debug\net8.0-windows\ref\RMS.dll

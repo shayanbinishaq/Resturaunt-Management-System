@@ -1,0 +1,18 @@
+CREATE DATABASE RMS;
+USE RMS;
+CREATE TABLE Users (
+    UserId INT AUTO_INCREMENT PRIMARY KEY ,
+    Username NVARCHAR(100) UNIQUE NOT NULL,
+    Password NVARCHAR(100) NOT NULL
+);
+CREATE TABLE items
+(
+ i_id INT AUTO_INCREMENT PRIMARY KEY,
+ i_name VARCHAR(30) NOT NULL,
+ Category VARCHAR(30) NOT NULL,
+ Price INT NOT NULL
+);
+SELECT * FROM Users;
+truncate Users;
+SELECT * FROM items;
+truncate items;
