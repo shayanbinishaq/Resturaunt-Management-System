@@ -77,16 +77,19 @@ Log in using admin or staff credentials
 Add and manage menu items
 
 Take customer orders
-<img width="852" height="529" alt="image" src="https://github.com/user-attachments/assets/b7165a8f-a400-4a13-87b8-59b2f4dadcd2" />
 
-<img width="856" height="525" alt="image" src="https://github.com/user-attachments/assets/e5a56f84-149f-4880-b9d8-373b41edf023" />
+<img width="849" height="523" alt="image" src="https://github.com/user-attachments/assets/b5cf64ff-8b2c-42a7-bf1d-dc2cee369b8f" />
 
-<img width="965" height="586" alt="image" src="https://github.com/user-attachments/assets/22fba6fe-16aa-41b1-bf8a-1c1848b1f142" />
+<img width="857" height="517" alt="image" src="https://github.com/user-attachments/assets/dc668070-fe9a-4266-87e1-62a1467ecb87" />
 
-<img width="965" height="584" alt="image" src="https://github.com/user-attachments/assets/f39482e1-71ac-4a28-808d-404002bb7d88" />
+<img width="964" height="588" alt="image" src="https://github.com/user-attachments/assets/6229a4df-f888-499d-99d9-4d0ce559ce48" />
 
-<img width="958" height="584" alt="image" src="https://github.com/user-attachments/assets/a48c2c8e-8ef6-4519-9a69-bff810d73d40" />
+<img width="964" height="589" alt="image" src="https://github.com/user-attachments/assets/d89c06f8-0389-4473-9526-5bca1511d0da" />
 
-<img width="965" height="590" alt="image" src="https://github.com/user-attachments/assets/4d9befc3-e9cb-4e98-8dbb-eaa7cb3d0c0e" />
+<img width="963" height="583" alt="image" src="https://github.com/user-attachments/assets/cd6768d0-2a63-48bf-9682-c56c24b6f64e" />
 
-<img width="809" height="475" alt="image" src="https://github.com/user-attachments/assets/b14f3a44-0074-4437-99cd-9818987b9102" />
+<img width="963" height="584" alt="image" src="https://github.com/user-attachments/assets/d1444ed6-2840-4b6a-ac41-8cc09eb3a90f" />
+
+<img width="960" height="584" alt="image" src="https://github.com/user-attachments/assets/ae7fdae9-a858-443f-8226-0013fcfdce61" />
+
+<img width="798" height="473" alt="image" src="https://github.com/user-attachments/assets/d25a1c80-745d-4450-bbc3-7d42c7515219" />
