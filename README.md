@@ -1,5 +1,6 @@
 Restaurant Management System (Windows Forms)
 Overview
+<img width="964" height="588" alt="image" src="https://github.com/user-attachments/assets/8f4d2d43-db18-4a15-90e1-99de0ab51b18" />
 
 The Restaurant Management System (RMS) is a Windows Forms–based desktop application developed to automate and manage the daily operations of a restaurant. The system provides an efficient way to handle menu management, order processing, billing.
 
